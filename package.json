@@ -1,0 +1,29 @@
+{
+  "name": "courserareact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "https://github.com/Nivedha123/courserareact.git",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nivedha123/courserareact.git"
+  },
+  "keywords": [
+    "Git",
+    "Coursera"
+  ],
+  "author": "Nivedha Jeyaraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nivedha123/courserareact/issues"
+  },
+  "homepage": "https://github.com/Nivedha123/courserareact#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
+ 
